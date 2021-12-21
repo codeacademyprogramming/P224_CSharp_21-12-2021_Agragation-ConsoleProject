@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\bin\Debug\netcoreapp3.1\AgregationProject.exe
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\bin\Debug\netcoreapp3.1\AgregationProject.deps.json
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\bin\Debug\netcoreapp3.1\AgregationProject.runtimeconfig.json
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\bin\Debug\netcoreapp3.1\AgregationProject.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\bin\Debug\netcoreapp3.1\AgregationProject.dll
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\bin\Debug\netcoreapp3.1\AgregationProject.pdb
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\obj\Debug\netcoreapp3.1\AgregationProject.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\obj\Debug\netcoreapp3.1\AgregationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\obj\Debug\netcoreapp3.1\AgregationProject.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\obj\Debug\netcoreapp3.1\AgregationProject.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\obj\Debug\netcoreapp3.1\AgregationProject.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\obj\Debug\netcoreapp3.1\AgregationProject.dll
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\obj\Debug\netcoreapp3.1\AgregationProject.pdb
+C:\Users\memme\Desktop\P224\Task\AgregationProject\AgregationProject\obj\Debug\netcoreapp3.1\AgregationProject.genruntimeconfig.cache
